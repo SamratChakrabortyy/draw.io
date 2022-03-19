@@ -1,0 +1,200 @@
+<mxfile host="app.diagrams.net" modified="2022-03-19T16:13:21.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="pL-5SNdIwo-Ut_MLA9QQ" version="17.1.3" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2148" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-7" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-120" y="110" width="135" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PMCMP_sBZHW1S8B9ygKB-7" vertex="1">
+          <mxGeometry width="135" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" parent="PMCMP_sBZHW1S8B9ygKB-7" vertex="1">
+          <mxGeometry x="35" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-5" value="Slack API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PMCMP_sBZHW1S8B9ygKB-7" vertex="1">
+          <mxGeometry x="40" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-350" y="280" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PMCMP_sBZHW1S8B9ygKB-12" vertex="1">
+          <mxGeometry width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://dev.pulsops.app/static/media/logo.bbb137e2.svg;" parent="PMCMP_sBZHW1S8B9ygKB-12" vertex="1">
+          <mxGeometry width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-9" value="UI Pulsops" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PMCMP_sBZHW1S8B9ygKB-12" vertex="1">
+          <mxGeometry y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="150" y="260" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PMCMP_sBZHW1S8B9ygKB-14" vertex="1">
+          <mxGeometry width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-16" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://dev.pulsops.app/static/media/logo.bbb137e2.svg;" parent="PMCMP_sBZHW1S8B9ygKB-14" vertex="1">
+          <mxGeometry width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-17" value="Profile Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PMCMP_sBZHW1S8B9ygKB-14" vertex="1">
+          <mxGeometry y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-18" value="Pulsops DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="150" y="490" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-8" target="PMCMP_sBZHW1S8B9ygKB-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-310" y="280" />
+              <mxPoint x="-310" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-23" value="Add to Slack with Pulsops JWT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-19" vertex="1" connectable="0">
+          <mxGeometry x="0.3151" y="-2" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-20" target="PMCMP_sBZHW1S8B9ygKB-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-530" y="303" />
+              <mxPoint x="-440" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-22" value="Add to Slack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.1529" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-20" value="User" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.user;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="285" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-6" target="PMCMP_sBZHW1S8B9ygKB-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="180" />
+              <mxPoint x="-282" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-25" value="Slack Callback with &lt;br&gt;Pulsops JWT&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;amp; Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.4642" y="3" relative="1" as="geometry">
+            <mxPoint x="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-8" target="PMCMP_sBZHW1S8B9ygKB-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-29" value="Authenticated Request with code from api.slack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-27" vertex="1" connectable="0">
+          <mxGeometry x="0.0072" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-16" target="PMCMP_sBZHW1S8B9ygKB-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-31" value="Request for Access_token&amp;nbsp;&lt;br&gt;&amp;amp; User Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-30" vertex="1" connectable="0">
+          <mxGeometry x="0.3314" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-6" target="PMCMP_sBZHW1S8B9ygKB-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-33" value="User Info and&amp;nbsp;&lt;br&gt;Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.4118" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.429;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-18" target="PMCMP_sBZHW1S8B9ygKB-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="490" as="sourcePoint" />
+            <mxPoint x="140" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-37" value="Get Org Slack Data&lt;br&gt;And validate user,&lt;br&gt;&amp;nbsp;workspace" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-36" vertex="1" connectable="0">
+          <mxGeometry x="0.0727" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-17" target="PMCMP_sBZHW1S8B9ygKB-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-39" value="Response With success or proper error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-38" vertex="1" connectable="0">
+          <mxGeometry x="0.1286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-8" target="PMCMP_sBZHW1S8B9ygKB-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-350" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-44" value="Proper Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-43" vertex="1" connectable="0">
+          <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-15" target="PMCMP_sBZHW1S8B9ygKB-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="290" />
+              <mxPoint x="310" y="90" />
+              <mxPoint x="-52" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-46" value="If integration successful : &lt;br&gt;Post Message :&amp;nbsp;&lt;br&gt;Greetings To User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.4008" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PMCMP_sBZHW1S8B9ygKB-6" target="PMCMP_sBZHW1S8B9ygKB-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-48" value="Greetings from Pulsops" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PMCMP_sBZHW1S8B9ygKB-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.1152" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-51" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-52" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-53" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-54" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="130" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-55" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="110" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMCMP_sBZHW1S8B9ygKB-56" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edOA3oBPYLLxPriDAyg4-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;User Slack Integration&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edOA3oBPYLLxPriDAyg4-2" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
